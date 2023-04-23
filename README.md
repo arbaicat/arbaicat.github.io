@@ -15,3 +15,9 @@ AICAT is a virtual pet farming project based on blockchain technology. Users can
 AICAT's virtual cats have unique appearance and personality, and have scarcity. Each virtual cat is unique. Users can interact, breed, and cultivate virtual cats to win in-game rewards and rare items, and gain higher profits through the growth and evolution of virtual cats.
 
 AICAT's NFTs will be pre-sale on the Opensea platform, allowing users to acquire ownership of virtual cats and enjoy subsequent profits and benefits by purchasing NFTs. At the same time, the AICAT team will conduct an air drop of AICAT tokens based on the number of NFTs held by users, in order to feedback users' support and participation in the project.
+
+## Airdrop and reward program
+
+The AICAT project will conduct an airdrop of AICAT tokens based on the number of NFTs held by users, in order to reward their support and participation in the project. Specifically, the AICAT team will allocate 70% of the total amount of AICAT tokens to NFT holding users and community building during airdrop activities. 30% airdrop to users who have received ARB airdrop.
+
+The AICAT tokens will be issued based on the ARB (Arbitrum) blockchain and comply with the ERC-20 standard. The total issuance of AICAT tokens is 150 billion. The more AICAT NFT users hold, the more AICAT token airdrop rewards they will get. Users can also get more AICAT token rewards by participating in AICAT ecological construction and Community Governance.
