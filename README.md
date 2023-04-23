@@ -26,6 +26,8 @@ The AICAT project will conduct an airdrop of AICAT tokens based on the number of
 
 The AICAT tokens will be issued based on the ARB (Arbitrum) blockchain and comply with the ERC-20 standard. The total issuance of AICAT tokens is 150 billion. The more AICAT NFT users hold, the more AICAT token airdrop rewards they will get. Users can also get more AICAT token rewards by participating in AICAT ecological construction and Community Governance.
 
+![](7.png)
+
 ## Ecological construction and Community Governance
 
 AICAT project is committed to building a complete digital asset ecosystem. Through an open, fair and transparent Community Governance mechanism, community users can participate in project decision-making and management, and promote the sustainable development of the ecosystem.
