@@ -8,8 +8,6 @@ In urban life, people's spiritual needs are increasingly valued, so virtual pets
 
 In this context, the birth of the AICAT project aims to bring more fresh and unique elements to the digital asset market, providing users with a brand new and interesting digital asset experience through virtual cat farming. At the same time, the AICAT project will be based on blockchain technology to achieve decentralization and value assurance of digital assets, providing users with a safer and more reliable digital asset trading environment.
 
-![](4.png)
-
 ## Introduction
 
 AICAT is a virtual pet farming project based on blockchain technology. Users can purchase AICAT's NFTs on the Web3 platform and raise, cultivate, and collect unique virtual cats in the digital world.
@@ -53,3 +51,5 @@ The AICAT project is a passionate and creative digital asset ecosystem. It is no
 We believe that the value of digital assets lies not only in their own characteristics and attributes, but also in the creativity and imagination of the people who created them. The vision of the AICAT project is to create a diverse, open, just, and transparent digital asset ecosystem, allowing digital asset enthusiasts to unleash their creativity, jointly create more digital asset artworks and experiences, and promote the development and growth of the digital asset ecosystem.
 
 The AICAT team will continuously improve and optimize the project, listen to the opinions and suggestions of community users, and strive to provide users with a better digital asset experience and services. We believe that AICAT will become a shining pearl in the digital asset ecosystem, allowing digital asset enthusiasts to experience more creativity and value.
+
+![](13.png)
