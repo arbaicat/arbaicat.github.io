@@ -16,6 +16,8 @@ AICAT's virtual cats have unique appearance and personality, and have scarcity. 
 
 AICAT's NFTs will be pre-sale on the Opensea platform, allowing users to acquire ownership of virtual cats and enjoy subsequent profits and benefits by purchasing NFTs. At the same time, the AICAT team will conduct an air drop of AICAT tokens based on the number of NFTs held by users, in order to feedback users' support and participation in the project.
 
+![](1.png)
+
 ## Airdrop and reward program
 
 The AICAT project will conduct an airdrop of AICAT tokens based on the number of NFTs held by users, in order to reward their support and participation in the project. Specifically, the AICAT team will allocate 70% of the total amount of AICAT tokens to NFT holding users and community building during airdrop activities. 30% airdrop to users who have received ARB airdrop.
