@@ -6,3 +6,6 @@ plugins:
 sass:
   sass_dir: _sass
   style: compressed
+collections:
+  my_collection:
+    output: true
