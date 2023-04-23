@@ -6,29 +6,33 @@
   <body>
     <div class="sidebar">
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="#" data-page="home">Home</a></li>
+        <li><a href="#" data-page="about">About</a></li>
+        <li><a href="#" data-page="contact">Contact</a></li>
       </ul>
     </div>
     <div class="content-wrapper">
-      {% if page.title == "Home" %}
-        {{ content1 }}
-      {% elsif page.title == "About" %}
-        {{ content2 }}
-      {% else %}
-        {{ content }}
-      {% endif %}
-
-      {% for document in site.collections.content1 %}
-        <h2>{{ document.data.title }}</h2>
-        <div>{{ document.content }}</div>
-      {% endfor %}
-
-      {% for document in site.collections.content2 %}
-        <h2>{{ document.data.title }}</h2>
-        <div>{{ document.content }}</div>
-      {% endfor %}
+      <div id="content"></div>
     </div>
+
+    <script>
+      const contentMap = {
+        home: "{{ content1 }}",
+        about: "{{ content2 }}",
+        contact: "{{ content3 }}"
+      };
+
+      const contentDiv = document.getElementById('content');
+      const links = document.querySelectorAll('.sidebar a');
+
+      links.forEach(link => {
+        link.addEventListener('click', e => {
+          e.preventDefault();
+          const page = e.target.dataset.page;
+          contentDiv.innerHTML = contentMap[page];
+        });
+      });
+    </script>
   </body>
 </html>
+
