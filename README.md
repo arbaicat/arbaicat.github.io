@@ -14,7 +14,7 @@ AICAT is a virtual pet farming project based on blockchain technology. Users can
 
 AICAT's virtual cats have unique appearance and personality, and have scarcity. Each virtual cat is unique. Users can interact, breed, and cultivate virtual cats to win in-game rewards and rare items, and gain higher profits through the growth and evolution of virtual cats.
 
-AICAT's NFTs will be pre-sale on the Opensea platform, allowing users to acquire ownership of virtual cats and enjoy subsequent profits and benefits by purchasing NFTs. At the same time, the AICAT team will conduct an air drop of AICAT tokens based on the number of NFTs held by users, in order to feedback users' support and participation in the project. [Opensea](https://opensea.io/collection/arbaicat/drop)
+AICAT's NFTs will be pre-sale on the Opensea platform, allowing users to acquire ownership of virtual cats and enjoy subsequent profits and benefits by purchasing NFTs. At the same time, the AICAT team will conduct an air drop of AICAT tokens based on the number of NFTs held by users, in order to feedback users' support and participation in the project. [Obtain NFT on opensea](https://opensea.io/collection/arbaicat/drop)
 
 ![](1.png)
 
@@ -38,7 +38,7 @@ AICAT will adopt a decentralized Community Governance model, establish a DAO (de
 
 AICAT will collaborate with other digital asset projects and blockchain ecosystems to promote the development and growth of the ecosystem. The AICAT team will develop ecological applications, establish community partnerships, expand the digital asset ecosystem, and bring more digital asset experiences and value to users.
 
-AICAT will develop a variety of ecological applications, including virtual pet games, digital art trading platforms, social platforms, etc. These applications will be combined with the AI-CAT virtual pet farming project to provide users with a more diverse digital asset experience. At the same time, AICAT will actively engage in community cooperation, establish partnerships with other digital asset projects and blockchain ecosystems, and jointly promote the development and growth of the digital asset ecosystem.
+AICAT will develop a variety of ecological applications, including virtual pet games, digital art trading platforms, social platforms, etc. These applications will be combined with the AICAT virtual pet farming project to provide users with a more diverse digital asset experience. At the same time, AICAT will actively engage in community cooperation, establish partnerships with other digital asset projects and blockchain ecosystems, and jointly promote the development and growth of the digital asset ecosystem.
 
 AICAT will actively participate in community construction and provide better services and support to community users. AICAT will establish a Community Governance committee elected by community users to supervise the development and operation of the project and protect the interests and rights of community users. The AICAT team will also establish a user support and complaint mechanism, promptly handle user feedback and complaints, and improve user satisfaction and trust.
 
