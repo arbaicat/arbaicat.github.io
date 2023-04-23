@@ -12,7 +12,13 @@
       </ul>
     </div>
     <div class="content-wrapper">
-      {{ content }}
+      {% if page.title == "Home" %}
+        {{ content1 }}
+      {% elsif page.title == "About" %}
+        {{ content2 }}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
   </body>
 </html>
