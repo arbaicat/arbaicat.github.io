@@ -1,9 +1,4 @@
----
-layout: default
-title: ARBAICAT
----
-
-# ARBAICAT
+<center>AICAT-为下一个10亿人打造的顶级Web3虚拟宠物</center>
 
 ## 新的土狗项目
 
