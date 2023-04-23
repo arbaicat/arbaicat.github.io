@@ -19,14 +19,16 @@
       {% else %}
         {{ content }}
       {% endif %}
+
+      {% for document in site.collections.content1 %}
+        <h2>{{ document.data.title }}</h2>
+        <div>{{ document.content }}</div>
+      {% endfor %}
+
+      {% for document in site.collections.content2 %}
+        <h2>{{ document.data.title }}</h2>
+        <div>{{ document.content }}</div>
+      {% endfor %}
     </div>
   </body>
 </html>
-{% for document in site.collections.content1 %}
-  <h2>{{ document.data.title }}</h2>
-  <div>{{ document.content }}</div>
-{% endfor %}
-{% for document in site.collections.content2 %}
-  <h2>{{ document.data.title }}</h2>
-  <div>{{ document.content }}</div>
-{% endfor %}
